@@ -1,0 +1,2 @@
+# research_logger
+pythonのloggerの挙動を調査する
